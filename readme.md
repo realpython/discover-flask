@@ -6,5 +6,5 @@
 
 
 | Part |      Title                |  Blog URL | Video URL |
-|------|:-------------------------:|----------:| ----------:
+|------|---------------------------|-----------| ----------|
 | 1    |  Setting Up a Static Site | [Link](https://www.youtube.com/watch?v=Gix_zeTrT7E)      | [Link](https://www.youtube.com/watch?v=Gix_zeTrT7E) |
