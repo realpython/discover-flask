@@ -8,3 +8,4 @@
 | Part |      Title                |  Blog URL | Video URL |
 |------|---------------------------|-----------| ----------|
 | 1    |  Setting Up a Static Site | [Link](http://www.realpython.com/blog/python/introduction-to-flask-part-1-setting-up-a-static-site)      | [Link](https://www.youtube.com/watch?v=Gix_zeTrT7E) |
+| 2    |  Creating a login page | [Link](http://www.realpython.com/blog/python/introduction-to-flask-part-2-creating-a-login-page)      | [Link](https://www.youtube.com/watch?v=IrlqSQNwoDA) |
