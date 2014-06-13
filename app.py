@@ -63,6 +63,7 @@ def logout():
     flash('You were logged out.')
     return redirect(url_for('welcome'))
 
+
 # connect to database
 def connect_db():
     return sqlite3.connect(app.database)
