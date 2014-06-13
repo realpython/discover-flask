@@ -13,3 +13,4 @@
 | 2    |  Creating a login page | [Link](http://www.realpython.com/blog/python/introduction-to-flask-part-2-creating-a-login-page)      | [Link](https://www.youtube.com/watch?v=IrlqSQNwoDA) |
 | 3    |  User Authentication  | N/A      | [Link](https://www.youtube.com/watch?v=xUL2WeGX830) |
 | 4    |  Template Inheritance | N/A      | [Link](https://www.youtube.com/watch?v=343KEx1K5KQ) |
+| 5    |  Databases | N/A      | [Link](https://www.youtube.com/watch?v=tpOaFQcfmhw |
