@@ -2,13 +2,13 @@ python, flask, web development, python tutorial, unit tests, flask-testing
 
 Introduction to Flask, Part 7 - Unit Tests
 
-It's important to write tests for all code you write, especially when you're learning. Why? Tests reduce bugs is new features and reduce regressions in your existing code base as you add new features.
+It's important to write tests for all code you write, especially when you're learning. Why? Tests reduce bugs in new features and reduce regressions in your existing code base as you add new features.
 
-Flask comes equiped with a test client, which allows our tests to mimic actual client requests. So requests hit our routes which are handled by the views as they normally would, then the response is sent back to the test. In generaly, you write tests to check the response for correctness.
+Flask comes equiped with a test client, which allows our tests to mimic actual client requests. So requests hit our routes which are handled by the views as they normally would, then the response is sent back to the actual test. In general, you write tests to check the response for correctness.
 
 **
 
-Activate your virtualenv. Open your test editor. Let's get to it.
+Activate your virtualenv. Open your code editor. Let's get to it.
 
 Create a new file called tests.py.
 
