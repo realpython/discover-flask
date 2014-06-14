@@ -32,23 +32,23 @@ if __name__ == '__main__':
     unittest.main()
 ```
 
-Again, the test client is what we use to create a test app, mocking out the functionality of our current app. Think of it as an isolated app that we can use to send request to and then test the response. We're using the unit test library to call the /login route, then checking that the response status code is 200.
+Again, the test client is what we use to create a test app, mocking out the functionality of our current app. Think of it as an isolated app that we can use to send requests to and then test the responses, all outside the scope of our main app. We're using the unit test library to call the /login route, then checking that the response status code is 200.
 
 Run the test:
 
 ```
-python tests.py
+python tests.py -v
 ```
 
 ***
 
 And it passed.
 
-We need to write tests to cover our entire app, and each test should test only one piece of functionality. Stop for a minute and, from an end user perspective, think about what our app does. The best way to do that is to actually go through our app as an end user.
+We need to write tests to cover our entire app, and each test should test only one piece of functionality. Stop for a minute and, from an end user perspective, think about what our app does. The best way to do that is to actually go through our app as an end user, then determining each individual feature and then writing a test for it.
 
 Fire up the server. Navigate to the login route.
 
-The best way to do this it to just go through your app, manually testing it, an think about how you can test each piece of functionality. In most cases, we'll either test the response status code or that the actual data returned contains text from the page. For example, in the case of the login route, we could test to ensure that the text "Please login" is part of the response. Let's add that test.
+Like I said, the best way to do this it to just go through your app, manually testing it, and think about how you can test each piece of functionality. In most cases, we'll either test the response status code or that the actual data returned contains text from the page. For example, in the case of the login route, we could test to ensure that the text "Please login" is part of the response. Let's add that test.
 
 ```
 # Ensure that the login page loads correctly
@@ -60,9 +60,11 @@ def test_login_page_loads(self):
 
 Again, after creating the test server, call the login route, then ensure that the text Please Login is part of the response.
 
+Test again.
+
 And it passes.
 
-Why do you think that it's important to test the actual data rather than just a 200 reponse. Well, if you think about it, we don't know anything about the data returned if we jusg return a 200. It could be JSON. Or for all we know, it could be an entirely different page because we rendered the wrong template.
+Why do you think that it's important to test the actual data rather than just a 200 reponse. Well, if you think about it, we don't know anything about the data returned if we test for a 200 response. It could be JSON. Or for all we know, it could be an entirely different page because we rendered the wrong template. So, if we test for actual text from the template, then we know that right template was rendered.
 
 **
 
@@ -91,7 +93,9 @@ So that will be three different tests. First, let's jump into the Shell to figur
 1. Then we should follow the redirects, since we need to test the page we're redirected to upon successful login which is the main page.
 1. Now we should get a 200 response.
 
-Cool. Now we can just test to ensure that a specific string is found within the response. We can see what to test by actually logging in. Alright - so we can test that You were logged in is part of the response.
+Cool. Now we can just test to ensure that text to that specific page is found within the response. We can see what to test by actually logging in.
+
+Back to the browser. Alright - so we can test that "You were logged" in is part of the response.
 
 Write the test -
 
@@ -107,7 +111,16 @@ def test_correct_login(self):
     self.assertIn(b'You were logged in', response.data)
 ```
 
-Now let's do the same thing for the next test. This will be similar. But what are we testing for? Logout. Try to login with incorrect credentials. So we want to ensure that Invalid Credentials. Please try again. is part of the reponse.
+1. Start with the function name.
+1. Create the test client
+1. Then hit the login route, passing in the correct user credentials.
+1. Then assert that the text is in the response.
+
+Test. Nice.
+
+Now let's do the same thing for the next test. This will be similar. But what are we testing for? The response in the case of logging in with incorrect credentials.
+
+Back to the browser. Try to login with incorrect credentials. So we want to ensure that "Invalid Credentials. Please try again." is part of the reponse.
 
 ```
 # Ensure login behaves correctly with incorrect credentials
@@ -120,6 +133,8 @@ def test_incorrect_login(self):
     )
     self.assertIn(b'Invalid Credentials. Please try again.', response.data)
 ```
+
+Test.
 
 How about logging out?
 
@@ -138,7 +153,7 @@ def test_logout(self):
 
 First we need to login, so let's just grab that from this previous test. Now write the response to logout.
 
-Okay. Now let's test. All pass. Let's go back to sublime real quick. Take a look at those last three tests. They smell bad, meaning - there are problems with them. First there's redundency in the actual code. We can write some helper functions to DRY out our code so that we are not repeating code. There's a few more issues, but they are a bit esoteric so I won't go over them. Since these test work, I'll leave them for now. We will be refactoring this in a futue video though.
+Okay. Now let's test. All pass. Let's go back to sublime real quick. Take a look at those last three tests. They smell bad, meaning - there are problems with them. First there's redundency in the actual code. We can write some helper functions to DRY out our code so that we are not repeating code - but that's just  start. There's a few more issues, but they are a bit esoteric so I won't go over them. Since these test work, I'll leave them for now. We will be refactoring this in a futue video though.
 
 Let's move on.
 
@@ -184,5 +199,5 @@ Likewise, notice how this test is testing whether a specific post is in the data
 
 I think that just about covers it. Did I miss anything? If so, first see if you can write a test for it, then comment below with a link to the code.
 
-Next time, I'll show you quickly how to deploy this app to Heroku before we start to scale out, building a production-quaity application. Thanks for watching!
+Next time I'll show you quickly how to deploy this app to Heroku before we start to scale out, building a production-quaity application. Thanks for watching!
 
