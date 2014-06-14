@@ -14,3 +14,4 @@
 | 3    |  User Authentication  | N/A      | [Link](https://www.youtube.com/watch?v=xUL2WeGX830) |
 | 4    |  Template Inheritance | N/A      | [Link](https://www.youtube.com/watch?v=343KEx1K5KQ) |
 | 5    |  Databases | N/A      | [Link](https://www.youtube.com/watch?v=tpOaFQcfmhw) |
+| 5    |  List Comprehensions | N/A      | [Link](https://www.youtube.com/watch?v=Ft3HS37hWpc) |
