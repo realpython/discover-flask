@@ -15,6 +15,6 @@
 | 4    |  Template Inheritance | N/A      | [Link](https://www.youtube.com/watch?v=343KEx1K5KQ) |
 | 5    |  Databases | N/A      | [Link](https://www.youtube.com/watch?v=tpOaFQcfmhw) |
 | 6    |  List Comprehensions | N/A      | [Link](https://www.youtube.com/watch?v=Ft3HS37hWpc) |
-| 7    |  Unit Tests | N/A      | Coming soon! |
+| 7    |  Unit Tests | N/A      | [Link](https://www.youtube.com/watch?v=TUnOHGolpvo) |
 
 
