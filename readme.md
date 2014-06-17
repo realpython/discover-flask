@@ -16,5 +16,5 @@
 | 5    |  Databases | N/A      | [Link](https://www.youtube.com/watch?v=tpOaFQcfmhw) |
 | 6    |  List Comprehensions | N/A      | [Link](https://www.youtube.com/watch?v=Ft3HS37hWpc) |
 | 7    |  Unit Tests | N/A      | [Link](https://www.youtube.com/watch?v=TUnOHGolpvo) |
-
+| 8    | Deploying to Heroku | N/A | [Link](https://www.youtube.com/watch?v=vxiHmjKqXUg) |
 
