@@ -10,7 +10,7 @@ with sqlite3.connect('sample.db') as connection:
     c = connection.cursor()
 
     # create the table
-    c.execute('CREATE TABLE posts(title TEXT, details TEXT)')
+    c.execute('CREATE TABLE posts(title TEXT, description TEXT)')
 
     # insert dummy data into the table
     c.execute('INSERT INTO posts VALUES("Good", "I\'m good.")')
