@@ -19,3 +19,5 @@
 | 8    | Deploying to Heroku | N/A | [Link](https://www.youtube.com/watch?v=vxiHmjKqXUg) |
 | 9    | SQLAlchemy | N/A | [Link](https://www.youtube.com/watch?v=l6uLxUlO9oI) |
 
+**You can view the entire video playlist [here](http://www.youtube.com/watch?v=WfpFUmV1d0w&list=PLLjmbh6XPGK4ISY747FUHXEl9lBxre4mM&feature=share).
+
