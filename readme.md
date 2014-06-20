@@ -9,13 +9,15 @@
 
 | Part |      Title                |  Blog URL | Video URL |
 |------|---------------------------|-----------| ----------|
-| 1    |  Setting Up a Static Site | [Link](http://www.realpython.com/blog/python/introduction-to-flask-part-1-setting-up-a-static-site)      | [Link](https://www.youtube.com/watch?v=Gix_zeTrT7E) |
-| 2    |  Creating a login page | [Link](http://www.realpython.com/blog/python/introduction-to-flask-part-2-creating-a-login-page)      | [Link](https://www.youtube.com/watch?v=IrlqSQNwoDA) |
-| 3    |  User Authentication  | N/A      | [Link](https://www.youtube.com/watch?v=xUL2WeGX830) |
-| 4    |  Template Inheritance | N/A      | [Link](https://www.youtube.com/watch?v=343KEx1K5KQ) |
-| 5    |  Databases | N/A      | [Link](https://www.youtube.com/watch?v=tpOaFQcfmhw) |
-| 6    |  List Comprehensions | N/A      | [Link](https://www.youtube.com/watch?v=Ft3HS37hWpc) |
-| 7    |  Unit Tests | N/A      | [Link](https://www.youtube.com/watch?v=TUnOHGolpvo) |
+| 1    |  Setting Up a Static Site | [Link](http://www.realpython.com/blog/python/introduction-to-flask-part-1-setting-up-a-static-site)      | [Link](http://youtu.be/WfpFUmV1d0w) |
+| 2    |  Creating a login page | [Link](http://www.realpython.com/blog/python/introduction-to-flask-part-2-creating-a-login-page)      | [Link](http://youtu.be/bLA6eBGN-_0) |
+| 3    |  User Authentication  | N/A      | [Link](http://youtu.be/BnBjhmspw4c) |
+| 4    |  Template Inheritance | N/A      | [Link](http://youtu.be/hNzruwVPtCE) |
+| 5    |  Databases | N/A      | [Link](http://youtu.be/_vrAjAHhUsA) |
+| 6    |  List Comprehensions | N/A      | [Link](http://youtu.be/WqmqNC8Teeo) |
+| 7    |  Unit Tests | N/A      | [Link](http://youtu.be/1aHNs1aEATg) |
 | 8    | Deploying to Heroku | N/A | [Link](https://www.youtube.com/watch?v=vxiHmjKqXUg) |
 | 9    | SQLAlchemy | N/A | [Link](https://www.youtube.com/watch?v=l6uLxUlO9oI) |
+
+**You can view the entire video playlist [here](http://www.youtube.com/watch?v=WfpFUmV1d0w&list=PLLjmbh6XPGK4ISY747FUHXEl9lBxre4mM&feature=share).**
 
