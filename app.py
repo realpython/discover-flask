@@ -3,14 +3,13 @@ from flask import Flask, render_template, redirect, \
     url_for, request, session, flash
 from functools import wraps
 from flask.ext.sqlalchemy import SQLAlchemy
-import sqlite3
 
 # create the application object
 app = Flask(__name__)
 
 # config
-app.secret_key = 'my precious'
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///posts.db'
+import os
+app.config.from_object(os.environ['APP_SETTINGS'])
 
 # create the sqlalchemy object
 db = SQLAlchemy(app)
@@ -75,4 +74,4 @@ def connect_db():
 
 # start the server with the 'run()' method
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
