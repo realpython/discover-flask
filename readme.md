@@ -17,7 +17,7 @@
 | 6    |  List Comprehensions | N/A      | [Link](http://youtu.be/WqmqNC8Teeo) |
 | 7    |  Unit Tests | N/A      | [Link](http://youtu.be/1aHNs1aEATg) |
 | 8    | Deploying to Heroku | N/A | [Link](https://www.youtube.com/watch?v=vxiHmjKqXUg) |
-| 9    | SQLAlchemy | N/A | [Link](https://www.youtube.com/watch?v=l6uLxUlO9oI) |
+| 9    | SQLAlchemy | N/A | [Link](https://www.youtube.com/watch?v=kuyrL6krkwA) |
 | 10   | Configuration | N/A | [Link](https://www.youtube.com/watch?v=4Eww3wVZK2I) |
 
 **You can view the entire video playlist [here](http://www.youtube.com/watch?v=WfpFUmV1d0w&list=PLLjmbh6XPGK4ISY747FUHXEl9lBxre4mM&feature=share).**
