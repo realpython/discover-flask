@@ -4,7 +4,7 @@
 
 ![real_python_logo](https://raw.githubusercontent.com/realpython/about/master/rp_small.png)
 
-> Please note: This is a tutorial series, which is still in progress. The source code is not meant to be used until the end of the series. 
+> Please note: This is a tutorial series, which is still in progress. The source code is not meant to be used until the end of the series.
 
 ## Contents
 
@@ -21,6 +21,7 @@
 | 8    | Deploying to Heroku | N/A | [Link](https://www.youtube.com/watch?v=vxiHmjKqXUg) |
 | 9    | SQLAlchemy | N/A | [Link](https://www.youtube.com/watch?v=kuyrL6krkwA) |
 | 10   | Configuration | N/A | [Link](https://www.youtube.com/watch?v=4Eww3wVZK2I) |
+| 11   | Secret | N/A | [Link](http://youtu.be/tqu9y4iqKVI?list=PLLjmbh6XPGK4ISY747FUHXEl9lBxre4mM)
 
 **You can view the entire video playlist [here](http://www.youtube.com/watch?v=WfpFUmV1d0w&list=PLLjmbh6XPGK4ISY747FUHXEl9lBxre4mM&feature=share).**
 
