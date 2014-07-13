@@ -4,6 +4,8 @@
 
 ![real_python_logo](https://raw.githubusercontent.com/realpython/about/master/rp_small.png)
 
+> Please note: This is a tutorial series, which is still in progress. The source code is not meant to be used until the end of the series. 
+
 ## Contents
 
 
