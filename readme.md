@@ -21,7 +21,8 @@
 | 8    | Deploying to Heroku | N/A | [Link](https://www.youtube.com/watch?v=vxiHmjKqXUg) |
 | 9    | SQLAlchemy | N/A | [Link](https://www.youtube.com/watch?v=kuyrL6krkwA) |
 | 10   | Configuration | N/A | [Link](https://www.youtube.com/watch?v=4Eww3wVZK2I) |
-| 11   | Secret | N/A | [Link](http://youtu.be/tqu9y4iqKVI?list=PLLjmbh6XPGK4ISY747FUHXEl9lBxre4mM)
+| 11   | Secret Key | N/A | [Link](http://youtu.be/tqu9y4iqKVI?list=PLLjmbh6XPGK4ISY747FUHXEl9lBxre4mM)
+| 12   | Heroku Configuration Settings | N/A | [Link](http://youtu.be/Y-ONxFkAUJc)
 
 **You can view the entire video playlist [here](http://www.youtube.com/watch?v=WfpFUmV1d0w&list=PLLjmbh6XPGK4ISY747FUHXEl9lBxre4mM&feature=share).**
 
