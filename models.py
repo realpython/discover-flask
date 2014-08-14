@@ -11,7 +11,7 @@ class BlogPost(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     title = db.Column(db.String, nullable=False)
     description = db.Column(db.String, nullable=False)
-    author_id = db.Column(db.Integer, ForeignKey('users.id'), nullable=False)
+    author_id = db.Column(db.Integer, ForeignKey('users.id'))
 
     def __init__(self, title, description):
         self.title = title
