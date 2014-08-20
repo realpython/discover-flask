@@ -31,10 +31,11 @@ class User(db.Model):
     password = db.Column(db.String, nullable=False)
     posts = relationship("BlogPost", backref="author")
 
-    def __init__(self, name, email, password):
+    def __init__(self, name, email, password, favorite_color):
         self.name = name
         self.email = email
         self.password = password
+        self.favorite_color = favorite_color
 
     def __repr__(self):
         return '<name {}'.format(self.name)
