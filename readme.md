@@ -28,6 +28,7 @@
 | 13   | Heroku Postgres Setup  | N/A | [Link](https://www.youtube.com/watch?v=FD0p-opdyoE)
 | 14   | Local PostgreSQL Setup   | N/A | [Link](https://www.youtube.com/watch?v=Up3p20rgWCw)
 | 15   | Managing Database Migrations    | N/A | [Link](http://youtu.be/YJibNSI-iaE)
+| 16   | Database Downgrades with Flask-Migrate/Alembic     | N/A | [Link](http://youtu.be/5UT1binVuYc)
 
 **You can view the entire video playlist [here](http://www.youtube.com/watch?v=WfpFUmV1d0w&list=PLLjmbh6XPGK4ISY747FUHXEl9lBxre4mM&feature=share).**
 
