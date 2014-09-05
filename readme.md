@@ -30,6 +30,7 @@
 | 15   | Managing Database Migrations    | N/A | [Link](http://youtu.be/YJibNSI-iaE)
 | 16   | Database Downgrades with Flask-Migrate/Alembic     | N/A | [Link](http://youtu.be/5UT1binVuYc)
 | 17   | Virtualenvwrapper     | N/A | [Link](http://youtu.be/thHNYVrY0lU)
+| 18   | Password Hashing     | N/A | [Link](http://youtu.be/LTJH5Mdgn4w)
 
 **You can view the entire video playlist [here](http://www.youtube.com/watch?v=WfpFUmV1d0w&list=PLLjmbh6XPGK4ISY747FUHXEl9lBxre4mM&feature=share).**
 
