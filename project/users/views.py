@@ -5,6 +5,8 @@
 from flask import flash, redirect, render_template, request, \
     session, url_for, Blueprint
 from app import app
+from flask.ext.bcrypt import Bcrypt
+bcrypt = Bcrypt(app)
 from functools import wraps
 
 ################

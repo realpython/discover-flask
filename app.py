@@ -4,7 +4,6 @@
 
 from flask import Flask, flash, redirect, session, url_for, render_template
 from flask.ext.sqlalchemy import SQLAlchemy
-from flask.ext.bcrypt import Bcrypt
 from functools import wraps
 import os
 
@@ -15,7 +14,6 @@ import os
 app = Flask(__name__)
 app.config.from_object(os.environ['APP_SETTINGS'])
 db = SQLAlchemy(app)
-bcrypt = Bcrypt(app)
 
 from models import *
 from project.users.views import users_blueprint
