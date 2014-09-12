@@ -39,7 +39,7 @@ def login_required(test):
 ################
 
 # route for handling the login page logic
-@app.route('/login', methods=['GET', 'POST'])
+@users_blueprint.route('/login', methods=['GET', 'POST'])
 def login():
     error = None
     if request.method == 'POST':
@@ -53,7 +53,7 @@ def login():
     return render_template('login.html', error=error)
 
 
-@app.route('/logout')
+@users_blueprint.route('/logout')
 @login_required
 def logout():
     session.pop('logged_in', None)
