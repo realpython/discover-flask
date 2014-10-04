@@ -34,6 +34,7 @@
 | 19   | Blueprints     | N/A | [Link](http://youtu.be/AeI_rBeZmwg)
 | 20   | Blueprints Redux     | N/A | [Link](http://youtu.be/TwNp1UagE9U)
 | 21   | User Authentication    | N/A | [Link](http://youtu.be/_pzMDIi5BuI)
+| 22   | Unit Testing with Flask-Testing | N/A | Coming Soon!
 
 **You can view the entire video playlist [here](http://www.youtube.com/watch?v=WfpFUmV1d0w&list=PLLjmbh6XPGK4ISY747FUHXEl9lBxre4mM&feature=share).**
 
