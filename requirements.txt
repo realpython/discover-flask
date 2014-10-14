@@ -1,5 +1,6 @@
 Flask==0.10.1
 Flask-Bcrypt==0.6.0
+Flask-Login==0.2.11
 Flask-Migrate==1.2.0
 Flask-SQLAlchemy==1.0
 Flask-Script==2.0.5
