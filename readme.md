@@ -8,6 +8,10 @@
 
 > Please note: This is a tutorial series, which is still in progress. The source code is not meant to be used until the end of the series.
 
+<script data-gratipay-username="mjhea0"
+        data-gratipay-widget="button"
+        src="//grtp.co/v1.js"></script>
+
 ## Contents
 
 
