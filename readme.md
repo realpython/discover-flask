@@ -8,9 +8,9 @@
 
 > Please note: This is a tutorial series, which is still in progress. The source code is not meant to be used until the end of the series.
 
-<script data-gratipay-username="mjhea0"
-        data-gratipay-widget="button"
-        src="//grtp.co/v1.js"></script>
+<a href="https://gratipay.com/mjhea0/">
+  <img alt="Support via Gratipay" src="https://cdn.rawgit.com/gratipay/gratipay-badge/2.1.3/dist/gratipay.png"/>
+</a>
 
 ## Contents
 
