@@ -8,6 +8,10 @@
 
 > Please note: This is a tutorial series, which is still in progress. The source code is not meant to be used until the end of the series.
 
+## Support
+
+Please help us keep this open source project going. Purchase the [Real Python](https://realpython.com/) course or support us through [Gratipay](https://gratipay.com/mjhea0/) - or both!
+
 <a href="https://gratipay.com/mjhea0/">
   <img alt="Support via Gratipay" src="https://cdn.rawgit.com/gratipay/gratipay-badge/2.1.3/dist/gratipay.png"/>
 </a>
