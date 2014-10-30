@@ -44,7 +44,7 @@ Please help us keep this free, open source project going. Purchase the [Real Pyt
 | 21   | User Authentication    | N/A | [Link](http://youtu.be/_pzMDIi5BuI)
 | 22   | Unit Testing with Flask-Testing | N/A | [Link](http://youtu.be/WDh_VQ41kYI)
 | 23   | Session Management with Flask-Login | N/A | [Link](http://youtu.be/rJGMOOSnHL0)
-| 24   | Testing User Login and Logout | N/A | Coming Soon!
+| 24   | Testing User Login and Logout | N/A | [Link](https://www.youtube.com/watch?v=v0fp1O7zCUY)
 
 **You can view the entire video playlist [here](http://www.youtube.com/watch?v=WfpFUmV1d0w&list=PLLjmbh6XPGK4ISY747FUHXEl9lBxre4mM&feature=share).**
 
