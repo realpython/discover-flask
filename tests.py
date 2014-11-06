@@ -94,19 +94,12 @@ class UserViewsTests(BaseTestCase):
 
     # Ensure user can register
     def test_user_registeration(self):
-        response = self.client.post('register/', data=dict(
-            username='Michael', email='michael@realpython.com',
-            password='python', confirm='python'
-        ), follow_redirects=True)
-        self.assertIn('Welcome to Flask!', response.data)
-        self.client.get('/logout', follow_redirects=True)
         with self.client:
-            response = self.client.post(
-                '/login',
-                data=dict(username="Michael", password="python"),
-                follow_redirects=True
-            )
-            self.assertIn(b'You were logged in', response.data)
+            response = self.client.post('register/', data=dict(
+                username='Michael', email='michael@realpython.com',
+                password='python', confirm='python'
+            ), follow_redirects=True)
+            self.assertIn(b'Welcome to Flask!', response.data)
             self.assertTrue(current_user.name == "Michael")
             self.assertTrue(current_user.is_active())
 
