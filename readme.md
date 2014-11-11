@@ -46,6 +46,7 @@ Please help us keep this free, open source project going. Purchase the [Real Pyt
 | 23   | Session Management with Flask-Login | N/A | [Link](http://youtu.be/rJGMOOSnHL0)
 | 24   | Testing User Login and Logout | N/A | [Link](https://www.youtube.com/watch?v=v0fp1O7zCUY)
 | 25   | User Registration (functionality and unit tests)  | N/A | [Link](http://youtu.be/kt4PEa5tsVw)
+| 26   | Finalize Messaging System  | N/A | Coming Soon!
 
 **You can view the entire video playlist [here](http://www.youtube.com/watch?v=WfpFUmV1d0w&list=PLLjmbh6XPGK4ISY747FUHXEl9lBxre4mM&feature=share).**
 
