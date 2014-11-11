@@ -4,7 +4,37 @@
 <h1>Welcome to Flask!</h1>
 <br>
 <p>Click <a href="/logout">here</a> to logout.</p>
-<br><br>
+<br>
+
+<!-- post form -->
+<h3>Add a Post!</h3>
+<br>
+<form class="form-message" role="form" method="post" action="/">
+  {{ form.csrf_token }}
+  <p>
+    {{ form.title(placeholder="title") }}
+    <span class="error">
+      {% if form.title.errors %}
+        {% for error in form.title.errors %}
+          {{ error }}
+        {% endfor %}
+      {% endif %}
+    </span>
+  </p>
+  <p>
+  {{ form.description(placeholder="description") }}
+    <span class="error">
+      {% if form.description.errors %}
+        {% for error in form.description.errors %}
+          {{ error }}
+        {% endfor %}
+      {% endif %}
+    </span>
+  </p>
+  <button class="btn btn-sm btn-success" type="submit">Post</button>
+</form>
+
+<!-- All posts -->
 <h3>Posts:</h3>
 {% for post in posts %}
   <strong>Title:</strong> {{ post.title }} <br>
