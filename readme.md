@@ -47,7 +47,7 @@ Please help us keep this free, open source project going. Purchase the [Real Pyt
 | 24   | [Testing User Login and Logout](https://www.youtube.com/watch?v=v0fp1O7zCUY) |
 | 25   | [User Registration (functionality and unit tests)](http://youtu.be/kt4PEa5tsVw) |
 | 26   | [Finalize Messaging System](http://youtu.be/WnT188ePHg4) |
-| 27   | [Test Coverage with coverage.py - Coming Soon! |
+| 27   | Test Coverage with coverage.py - Coming Soon! |
 
 **You can view the entire video playlist [here](http://www.youtube.com/watch?v=WfpFUmV1d0w&list=PLLjmbh6XPGK4ISY747FUHXEl9lBxre4mM&feature=share).**
 
