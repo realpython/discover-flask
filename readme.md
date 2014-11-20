@@ -28,7 +28,7 @@ Please help us keep this free, open source project going. Purchase the [Real Pyt
 | 5    | [Databases](http://youtu.be/_vrAjAHhUsA) |
 | 6    | [List Comprehensions](http://youtu.be/WqmqNC8Teeo) |
 | 7    | [Unit Tests](http://youtu.be/1aHNs1aEATg) |
-| 8    | [Deploying to Heroku](https://www.youtube.com/watch?v=vxiHmjKqXUg) |
+| 8    | [Deploying to Heroku](http://youtu.be/L9uD74nHvFY) |
 | 9    | [SQLAlchemy](https://www.youtube.com/watch?v=kuyrL6krkwA) |
 | 10   | [Configuration](https://www.youtube.com/watch?v=4Eww3wVZK2I) |
 | 11   | [Secret Key](http://youtu.be/tqu9y4iqKVI?list=PLLjmbh6XPGK4ISY747FUHXEl9lBxre4mM) |
