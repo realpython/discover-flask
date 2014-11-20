@@ -31,7 +31,7 @@ Please help us keep this free, open source project going. Purchase the [Real Pyt
 | 8    | [Deploying to Heroku](http://youtu.be/L9uD74nHvFY) |
 | 9    | [SQLAlchemy](https://www.youtube.com/watch?v=kuyrL6krkwA) |
 | 10   | [Configuration](https://www.youtube.com/watch?v=4Eww3wVZK2I) |
-| 11   | [Secret Key](http://youtu.be/tqu9y4iqKVI?list=PLLjmbh6XPGK4ISY747FUHXEl9lBxre4mM) |
+| 11   | [Secret Key](http://youtu.be/tqu9y4iqKVI) |
 | 12   | [Heroku Configuration Settings](http://youtu.be/Y-ONxFkAUJc) |
 | 13   | [Heroku Postgres Setup](https://www.youtube.com/watch?v=FD0p-opdyoE) |
 | 14   | [Local PostgreSQL Setup](https://www.youtube.com/watch?v=Up3p20rgWCw) |
