@@ -36,11 +36,11 @@ Please help us keep this free, open source project going. Purchase the [Real Pyt
 | 13   | [Heroku Postgres Setup](https://www.youtube.com/watch?v=FD0p-opdyoE) | [part13](https://github.com/realpython/discover-flask/tree/part13) |
 | 14   | [Local PostgreSQL Setup](https://www.youtube.com/watch?v=Up3p20rgWCw) | [part14](https://github.com/realpython/discover-flask/tree/part14) |
 | 15   | [Managing Database Migrations](http://youtu.be/YJibNSI-iaE) | [part15](https://github.com/realpython/discover-flask/tree/part15) |
-| 16   | [Database Downgrades with Flask-Migrate/Alembic](http://youtu.be/5UT1binVuYc) | [part](https://github.com/realpython/discover-flask/tree/part2) |
-| 17   | [Virtualenvwrapper](http://youtu.be/thHNYVrY0lU) | [part](https://github.com/realpython/discover-flask/tree/part2) |
-| 18   | [Password Hashing](http://youtu.be/LTJH5Mdgn4w) | [part](https://github.com/realpython/discover-flask/tree/part2) |
-| 19   | [Blueprints](http://youtu.be/AeI_rBeZmwg) | [part](https://github.com/realpython/discover-flask/tree/part2) |
-| 20   | [Blueprints Redux](http://youtu.be/TwNp1UagE9U) | [part](https://github.com/realpython/discover-flask/tree/part2) |
+| 16   | [Database Downgrades with Flask-Migrate/Alembic](http://youtu.be/5UT1binVuYc) | [part16](https://github.com/realpython/discover-flask/tree/part16) |
+| 17   | [Virtualenvwrapper](http://youtu.be/thHNYVrY0lU) | [part17](https://github.com/realpython/discover-flask/tree/part17) |
+| 18   | [Password Hashing](http://youtu.be/LTJH5Mdgn4w) | [part18](https://github.com/realpython/discover-flask/tree/part18) |
+| 19   | [Blueprints](http://youtu.be/AeI_rBeZmwg) | [part19](https://github.com/realpython/discover-flask/tree/part19) |
+| 20   | [Blueprints Redux](http://youtu.be/TwNp1UagE9U) | [part20](https://github.com/realpython/discover-flask/tree/part20) |
 | 21   | [User Authentication (part 2)](http://youtu.be/_pzMDIi5BuI) | [part](https://github.com/realpython/discover-flask/tree/part2) |
 | 22   | [Unit Testing with Flask-Testing](http://youtu.be/WDh_VQ41kYI) | [part](https://github.com/realpython/discover-flask/tree/part2) |
 | 23   | [Session Management with Flask-Login](http://youtu.be/rJGMOOSnHL0) | [part](https://github.com/realpython/discover-flask/tree/part2) |
