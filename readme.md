@@ -19,8 +19,8 @@ Please help us keep this free, open source project going. Purchase the [Real Pyt
 ## Contents
 
 
-| Part |      Title                | Tag |
-|------|---------------------------|-----|
+| Part |      Title                | Git Tag |
+|------|---------------------------|---------|
 | 1    | [Setting Up a Static Site](http://youtu.be/WfpFUmV1d0w) ([blog post](http://www.realpython.com/blog/python/introduction-to-flask-part-1-setting-up-a-static-site)) | [Tag Name](link) |
 | 2    | [Creating a login page](http://youtu.be/bLA6eBGN-_0) ([blog post](http://www.realpython.com/blog/python/introduction-to-flask-part-2-creating-a-login-page)) | [Tag Name](link) |
 | 3    | [User Authentication](http://youtu.be/BnBjhmspw4c) | [Tag Name](link) |
