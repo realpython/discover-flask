@@ -41,13 +41,13 @@ Please help us keep this free, open source project going. Purchase the [Real Pyt
 | 18   | [Password Hashing](http://youtu.be/LTJH5Mdgn4w) | [part18](https://github.com/realpython/discover-flask/tree/part18) |
 | 19   | [Blueprints](http://youtu.be/AeI_rBeZmwg) | [part19](https://github.com/realpython/discover-flask/tree/part19) |
 | 20   | [Blueprints Redux](http://youtu.be/TwNp1UagE9U) | [part20](https://github.com/realpython/discover-flask/tree/part20) |
-| 21   | [User Authentication (part 2)](http://youtu.be/_pzMDIi5BuI) | [part](https://github.com/realpython/discover-flask/tree/part2) |
-| 22   | [Unit Testing with Flask-Testing](http://youtu.be/WDh_VQ41kYI) | [part](https://github.com/realpython/discover-flask/tree/part2) |
-| 23   | [Session Management with Flask-Login](http://youtu.be/rJGMOOSnHL0) | [part](https://github.com/realpython/discover-flask/tree/part2) |
-| 24   | [Testing User Login and Logout](https://www.youtube.com/watch?v=v0fp1O7zCUY) | [part](https://github.com/realpython/discover-flask/tree/part2) |
-| 25   | [User Registration (functionality and unit tests)](http://youtu.be/kt4PEa5tsVw) | [part](https://github.com/realpython/discover-flask/tree/part2) |
-| 26   | [Finalize Messaging System](http://youtu.be/WnT188ePHg4) | [part](https://github.com/realpython/discover-flask/tree/part2) |
-| 27   | [Test Coverage with coverage.py](http://youtu.be/7Aqcn0-uAr0) | [part](https://github.com/realpython/discover-flask/tree/part2) |
+| 21   | [User Authentication (part 2)](http://youtu.be/_pzMDIi5BuI) | [part21](https://github.com/realpython/discover-flask/tree/part12) |
+| 22   | [Unit Testing with Flask-Testing](http://youtu.be/WDh_VQ41kYI) | [part22](https://github.com/realpython/discover-flask/tree/part22) |
+| 23   | [Session Management with Flask-Login](http://youtu.be/rJGMOOSnHL0) | [part23](https://github.com/realpython/discover-flask/tree/part23) |
+| 24   | [Testing User Login and Logout](https://www.youtube.com/watch?v=v0fp1O7zCUY) | [part24](https://github.com/realpython/discover-flask/tree/part24) |
+| 25   | [User Registration (functionality and unit tests)](http://youtu.be/kt4PEa5tsVw) | [part25](https://github.com/realpython/discover-flask/tree/part25) |
+| 26   | [Finalize Messaging System](http://youtu.be/WnT188ePHg4) | [part26](https://github.com/realpython/discover-flask/tree/part26) |
+| 27   | [Test Coverage with coverage.py](http://youtu.be/7Aqcn0-uAr0) | [part27](https://github.com/realpython/discover-flask/tree/part27) |
 
 **You can view the entire video playlist [here](http://www.youtube.com/watch?v=WfpFUmV1d0w&list=PLLjmbh6XPGK4ISY747FUHXEl9lBxre4mM&feature=share).**
 
