@@ -31,11 +31,11 @@ Please help us keep this free, open source project going. Purchase the [Real Pyt
 | 8    | [Deploying to Heroku](http://youtu.be/L9uD74nHvFY) | [part8](https://github.com/realpython/discover-flask/tree/part8) |
 | 9    | [SQLAlchemy](https://www.youtube.com/watch?v=kuyrL6krkwA) | [part9](https://github.com/realpython/discover-flask/tree/part9) |
 | 10   | [Configuration](https://www.youtube.com/watch?v=4Eww3wVZK2I) | [part10](https://github.com/realpython/discover-flask/tree/part10) |
-| 11   | [Secret Key](http://youtu.be/tqu9y4iqKVI) | [part](https://github.com/realpython/discover-flask/tree/part2) |
-| 12   | [Heroku Configuration Settings](http://youtu.be/Y-ONxFkAUJc) | [part](https://github.com/realpython/discover-flask/tree/part2) |
-| 13   | [Heroku Postgres Setup](https://www.youtube.com/watch?v=FD0p-opdyoE) | [part](https://github.com/realpython/discover-flask/tree/part2) |
-| 14   | [Local PostgreSQL Setup](https://www.youtube.com/watch?v=Up3p20rgWCw) | [part](https://github.com/realpython/discover-flask/tree/part2) |
-| 15   | [Managing Database Migrations](http://youtu.be/YJibNSI-iaE) | [part](https://github.com/realpython/discover-flask/tree/part2) |
+| 11   | [Secret Key](http://youtu.be/tqu9y4iqKVI) | [part11](https://github.com/realpython/discover-flask/tree/part11) |
+| 12   | [Heroku Configuration Settings](http://youtu.be/Y-ONxFkAUJc) | [part12](https://github.com/realpython/discover-flask/tree/part12) |
+| 13   | [Heroku Postgres Setup](https://www.youtube.com/watch?v=FD0p-opdyoE) | [part13](https://github.com/realpython/discover-flask/tree/part13) |
+| 14   | [Local PostgreSQL Setup](https://www.youtube.com/watch?v=Up3p20rgWCw) | [part14](https://github.com/realpython/discover-flask/tree/part14) |
+| 15   | [Managing Database Migrations](http://youtu.be/YJibNSI-iaE) | [part15](https://github.com/realpython/discover-flask/tree/part15) |
 | 16   | [Database Downgrades with Flask-Migrate/Alembic](http://youtu.be/5UT1binVuYc) | [part](https://github.com/realpython/discover-flask/tree/part2) |
 | 17   | [Virtualenvwrapper](http://youtu.be/thHNYVrY0lU) | [part](https://github.com/realpython/discover-flask/tree/part2) |
 | 18   | [Password Hashing](http://youtu.be/LTJH5Mdgn4w) | [part](https://github.com/realpython/discover-flask/tree/part2) |
