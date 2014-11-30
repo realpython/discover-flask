@@ -41,7 +41,7 @@ Please help us keep this free, open source project going. Purchase the [Real Pyt
 | 18   | [Password Hashing](http://youtu.be/LTJH5Mdgn4w) | [part18](https://github.com/realpython/discover-flask/tree/part18) |
 | 19   | [Blueprints](http://youtu.be/AeI_rBeZmwg) | [part19](https://github.com/realpython/discover-flask/tree/part19) |
 | 20   | [Blueprints Redux](http://youtu.be/TwNp1UagE9U) | [part20](https://github.com/realpython/discover-flask/tree/part20) |
-| 21   | [User Authentication (part 2)](http://youtu.be/_pzMDIi5BuI) | [part21](https://github.com/realpython/discover-flask/tree/part12) |
+| 21   | [User Authentication (part 2)](http://youtu.be/_pzMDIi5BuI) | [part21](https://github.com/realpython/discover-flask/tree/part21) |
 | 22   | [Unit Testing with Flask-Testing](http://youtu.be/WDh_VQ41kYI) | [part22](https://github.com/realpython/discover-flask/tree/part22) |
 | 23   | [Session Management with Flask-Login](http://youtu.be/rJGMOOSnHL0) | [part23](https://github.com/realpython/discover-flask/tree/part23) |
 | 24   | [Testing User Login and Logout](https://www.youtube.com/watch?v=v0fp1O7zCUY) | [part24](https://github.com/realpython/discover-flask/tree/part24) |
