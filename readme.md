@@ -21,33 +21,33 @@ Please help us keep this free, open source project going. Purchase the [Real Pyt
 
 | Part |      Title                | Git Tag |
 |------|---------------------------|---------|
-| 1    | [Setting Up a Static Site](http://youtu.be/WfpFUmV1d0w) ([blog post](http://www.realpython.com/blog/python/introduction-to-flask-part-1-setting-up-a-static-site)) | [Tag Name](link) |
-| 2    | [Creating a login page](http://youtu.be/bLA6eBGN-_0) ([blog post](http://www.realpython.com/blog/python/introduction-to-flask-part-2-creating-a-login-page)) | [Tag Name](link) |
-| 3    | [User Authentication](http://youtu.be/BnBjhmspw4c) | [Tag Name](link) |
-| 4    | [Template Inheritance](http://youtu.be/hNzruwVPtCE) | [Tag Name](link) |
-| 5    | [Databases](http://youtu.be/_vrAjAHhUsA) | [Tag Name](link) |
-| 6    | [List Comprehensions](http://youtu.be/WqmqNC8Teeo) | [Tag Name](link) |
-| 7    | [Unit Tests](http://youtu.be/1aHNs1aEATg) | [Tag Name](link) |
-| 8    | [Deploying to Heroku](http://youtu.be/L9uD74nHvFY) | [Tag Name](link) |
-| 9    | [SQLAlchemy](https://www.youtube.com/watch?v=kuyrL6krkwA) | [Tag Name](link) |
-| 10   | [Configuration](https://www.youtube.com/watch?v=4Eww3wVZK2I) | [Tag Name](link) |
-| 11   | [Secret Key](http://youtu.be/tqu9y4iqKVI) | [Tag Name](link) |
-| 12   | [Heroku Configuration Settings](http://youtu.be/Y-ONxFkAUJc) | [Tag Name](link) |
-| 13   | [Heroku Postgres Setup](https://www.youtube.com/watch?v=FD0p-opdyoE) | [Tag Name](link) |
-| 14   | [Local PostgreSQL Setup](https://www.youtube.com/watch?v=Up3p20rgWCw) | [Tag Name](link) |
-| 15   | [Managing Database Migrations](http://youtu.be/YJibNSI-iaE) | [Tag Name](link) |
-| 16   | [Database Downgrades with Flask-Migrate/Alembic](http://youtu.be/5UT1binVuYc) | [Tag Name](link) |
-| 17   | [Virtualenvwrapper](http://youtu.be/thHNYVrY0lU) | [Tag Name](link) |
-| 18   | [Password Hashing](http://youtu.be/LTJH5Mdgn4w) | [Tag Name](link) |
-| 19   | [Blueprints](http://youtu.be/AeI_rBeZmwg) | [Tag Name](link) |
-| 20   | [Blueprints Redux](http://youtu.be/TwNp1UagE9U) | [Tag Name](link) |
-| 21   | [User Authentication (part 2)](http://youtu.be/_pzMDIi5BuI) | [Tag Name](link) |
-| 22   | [Unit Testing with Flask-Testing](http://youtu.be/WDh_VQ41kYI) | [Tag Name](link) |
-| 23   | [Session Management with Flask-Login](http://youtu.be/rJGMOOSnHL0) | [Tag Name](link) |
-| 24   | [Testing User Login and Logout](https://www.youtube.com/watch?v=v0fp1O7zCUY) | [Tag Name](link) |
-| 25   | [User Registration (functionality and unit tests)](http://youtu.be/kt4PEa5tsVw) | [Tag Name](link) |
-| 26   | [Finalize Messaging System](http://youtu.be/WnT188ePHg4) | [Tag Name](link) |
-| 27   | [Test Coverage with coverage.py](http://youtu.be/7Aqcn0-uAr0) | [Tag Name](link) |
+| 1    | [Setting Up a Static Site](http://youtu.be/WfpFUmV1d0w) ([blog post](http://www.realpython.com/blog/python/introduction-to-flask-part-1-setting-up-a-static-site)) | [part1](https://github.com/realpython/discover-flask/tree/part1) |
+| 2    | [Creating a login page](http://youtu.be/bLA6eBGN-_0) ([blog post](http://www.realpython.com/blog/python/introduction-to-flask-part-2-creating-a-login-page)) | [part2](https://github.com/realpython/discover-flask/tree/part2) |
+| 3    | [User Authentication](http://youtu.be/BnBjhmspw4c) | [part3](https://github.com/realpython/discover-flask/tree/part3) |
+| 4    | [Template Inheritance](http://youtu.be/hNzruwVPtCE) | [part4](https://github.com/realpython/discover-flask/tree/part4) |
+| 5    | [Databases](http://youtu.be/_vrAjAHhUsA) | [part5](https://github.com/realpython/discover-flask/tree/part5) |
+| 6    | [List Comprehensions](http://youtu.be/WqmqNC8Teeo) | N/A |
+| 7    | [Unit Tests](http://youtu.be/1aHNs1aEATg) | [part7](https://github.com/realpython/discover-flask/tree/part7) |
+| 8    | [Deploying to Heroku](http://youtu.be/L9uD74nHvFY) | [part8](https://github.com/realpython/discover-flask/tree/part8) |
+| 9    | [SQLAlchemy](https://www.youtube.com/watch?v=kuyrL6krkwA) | [part9](https://github.com/realpython/discover-flask/tree/part9) |
+| 10   | [Configuration](https://www.youtube.com/watch?v=4Eww3wVZK2I) | [part10](https://github.com/realpython/discover-flask/tree/part10) |
+| 11   | [Secret Key](http://youtu.be/tqu9y4iqKVI) | [part](https://github.com/realpython/discover-flask/tree/part2) |
+| 12   | [Heroku Configuration Settings](http://youtu.be/Y-ONxFkAUJc) | [part](https://github.com/realpython/discover-flask/tree/part2) |
+| 13   | [Heroku Postgres Setup](https://www.youtube.com/watch?v=FD0p-opdyoE) | [part](https://github.com/realpython/discover-flask/tree/part2) |
+| 14   | [Local PostgreSQL Setup](https://www.youtube.com/watch?v=Up3p20rgWCw) | [part](https://github.com/realpython/discover-flask/tree/part2) |
+| 15   | [Managing Database Migrations](http://youtu.be/YJibNSI-iaE) | [part](https://github.com/realpython/discover-flask/tree/part2) |
+| 16   | [Database Downgrades with Flask-Migrate/Alembic](http://youtu.be/5UT1binVuYc) | [part](https://github.com/realpython/discover-flask/tree/part2) |
+| 17   | [Virtualenvwrapper](http://youtu.be/thHNYVrY0lU) | [part](https://github.com/realpython/discover-flask/tree/part2) |
+| 18   | [Password Hashing](http://youtu.be/LTJH5Mdgn4w) | [part](https://github.com/realpython/discover-flask/tree/part2) |
+| 19   | [Blueprints](http://youtu.be/AeI_rBeZmwg) | [part](https://github.com/realpython/discover-flask/tree/part2) |
+| 20   | [Blueprints Redux](http://youtu.be/TwNp1UagE9U) | [part](https://github.com/realpython/discover-flask/tree/part2) |
+| 21   | [User Authentication (part 2)](http://youtu.be/_pzMDIi5BuI) | [part](https://github.com/realpython/discover-flask/tree/part2) |
+| 22   | [Unit Testing with Flask-Testing](http://youtu.be/WDh_VQ41kYI) | [part](https://github.com/realpython/discover-flask/tree/part2) |
+| 23   | [Session Management with Flask-Login](http://youtu.be/rJGMOOSnHL0) | [part](https://github.com/realpython/discover-flask/tree/part2) |
+| 24   | [Testing User Login and Logout](https://www.youtube.com/watch?v=v0fp1O7zCUY) | [part](https://github.com/realpython/discover-flask/tree/part2) |
+| 25   | [User Registration (functionality and unit tests)](http://youtu.be/kt4PEa5tsVw) | [part](https://github.com/realpython/discover-flask/tree/part2) |
+| 26   | [Finalize Messaging System](http://youtu.be/WnT188ePHg4) | [part](https://github.com/realpython/discover-flask/tree/part2) |
+| 27   | [Test Coverage with coverage.py](http://youtu.be/7Aqcn0-uAr0) | [part](https://github.com/realpython/discover-flask/tree/part2) |
 
 **You can view the entire video playlist [here](http://www.youtube.com/watch?v=WfpFUmV1d0w&list=PLLjmbh6XPGK4ISY747FUHXEl9lBxre4mM&feature=share).**
 
