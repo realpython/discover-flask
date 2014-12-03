@@ -51,3 +51,9 @@ Please help us keep this free, open source project going. Purchase the [Real Pyt
 
 **You can view the entire video playlist [here](http://www.youtube.com/watch?v=WfpFUmV1d0w&list=PLLjmbh6XPGK4ISY747FUHXEl9lBxre4mM&feature=share).**
 
+## Links
+
+- Nice Vagrant [Instance](https://github.com/apolloclark/discover-flask-vagrant) for Discover Flask, for use with [PyJenkinsCI](https://github.com/apolloclark/py-jenkins-ci) - a test Jenkins Continuous Integration (CI) for Python projects, compatible with Mac OSX and Ubuntu systems. (Thanks, [Apollo](https://github.com/apolloclark)!)
+
+
+
