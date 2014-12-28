@@ -49,6 +49,8 @@ Please help us keep this free, open source project going. Purchase the [Real Pyt
 | 26   | [Finalize Messaging System](http://youtu.be/WnT188ePHg4) | [part26](https://github.com/realpython/discover-flask/tree/part26) |
 | 27   | [Test Coverage with coverage.py](http://youtu.be/7Aqcn0-uAr0) | [part27](https://github.com/realpython/discover-flask/tree/part27) |
 | 28   | [Flask Testing!](http://youtu.be/YO2k80aDJj8) | [part28](https://github.com/realpython/discover-flask/tree/part28) |
+| 29   | Flask Testing (increase test coverage) | Coming Soon! |
+
 
 **You can view the entire video playlist [here](http://www.youtube.com/watch?v=WfpFUmV1d0w&list=PLLjmbh6XPGK4ISY747FUHXEl9lBxre4mM&feature=share).**
 

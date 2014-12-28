@@ -3,12 +3,13 @@
 #################
 
 from flask import flash, redirect, render_template, request, \
-    url_for, Blueprint
-from flask.ext.login import login_user, login_required, logout_user
+    url_for, Blueprint   # pragma: no cover
+from flask.ext.login import login_user, \
+    login_required, logout_user   # pragma: no cover
 
-from .forms import LoginForm, RegisterForm
-from project import db
-from project.models import User, bcrypt
+from .forms import LoginForm, RegisterForm   # pragma: no cover
+from project import db   # pragma: no cover
+from project.models import User, bcrypt   # pragma: no cover
 
 ################
 #### config ####
@@ -17,14 +18,14 @@ from project.models import User, bcrypt
 users_blueprint = Blueprint(
     'users', __name__,
     template_folder='templates'
-)
+)   # pragma: no cover
 
 
 ################
 #### routes ####
 ################
 
-@users_blueprint.route('/login', methods=['GET', 'POST'])
+@users_blueprint.route('/login', methods=['GET', 'POST'])   # pragma: no cover
 def login():
     error = None
     form = LoginForm(request.form)
@@ -43,15 +44,16 @@ def login():
     return render_template('login.html', form=form, error=error)
 
 
-@users_blueprint.route('/logout')
-@login_required
+@users_blueprint.route('/logout')   # pragma: no cover
+@login_required   # pragma: no cover
 def logout():
     logout_user()
     flash('You were logged out.')
     return redirect(url_for('home.welcome'))
 
 
-@users_blueprint.route('/register/', methods=['GET', 'POST'])
+@users_blueprint.route(
+    '/register/', methods=['GET', 'POST'])   # pragma: no cover
 def register():
     form = RegisterForm()
     if form.validate_on_submit():
