@@ -28,8 +28,7 @@ def cov():
     """Runs the unit tests with coverage."""
     cov = coverage.coverage(
         branch=True,
-        include='project/*',
-        omit=["*/__init__.py", '*/models.py']
+        include='project/*'
     )
     cov.start()
     tests = unittest.TestLoader().discover('tests')
