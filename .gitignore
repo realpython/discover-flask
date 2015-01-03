@@ -4,3 +4,4 @@ venv
 blog
 *.db
 coverage
+tag.py
