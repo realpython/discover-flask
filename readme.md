@@ -52,7 +52,7 @@ Please help us keep this free, open source project going. Purchase the [Real Pyt
 | 27   | [Test Coverage with coverage.py](http://youtu.be/7Aqcn0-uAr0) | [part27](https://github.com/realpython/discover-flask/tree/part27) |
 | 28   | [Flask Testing!](http://youtu.be/YO2k80aDJj8) | [part28](https://github.com/realpython/discover-flask/tree/part28) |
 | 29   | [Flask Testing (increase test coverage)](http://youtu.be/ASNNTb6o3pU) | [part29](https://github.com/realpython/discover-flask/tree/part29) |
-| 30   | Continuous Integration | [part30](https://github.com/realpython/discover-flask/tree/part30) |
+| 30   | [Continuous Integration](http://youtu.be/qAe6v_6SMA8) | [part30](https://github.com/realpython/discover-flask/tree/part30) |
 
 
 **You can view the entire video playlist [here](http://www.youtube.com/watch?v=WfpFUmV1d0w&list=PLLjmbh6XPGK4ISY747FUHXEl9lBxre4mM&feature=share).**
