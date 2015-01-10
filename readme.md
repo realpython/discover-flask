@@ -1,5 +1,7 @@
 # Discover Flask
 
+Full Stack Web Development with Flask.
+
 **http://discoverflask.com**
 
 [![Build Status](https://travis-ci.org/realpython/discover-flask.svg?branch=master)](https://travis-ci.org/realpython/discover-flask)
