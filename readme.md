@@ -62,6 +62,7 @@ Please help us keep this free, open source project going. Purchase the [Real Pyt
 ## Links
 
 - Nice Vagrant [Instance](https://github.com/apolloclark/discover-flask-vagrant) for Discover Flask, for use with [PyJenkinsCI](https://github.com/apolloclark/py-jenkins-ci) - a test Jenkins Continuous Integration (CI) for Python projects, compatible with Mac OSX and Ubuntu systems. (Thanks, [Apollo](https://github.com/apolloclark)!)
+- Awesome project, based on the series -> [HomeCenter](https://github.com/Thustra/HomeCenter)
 
 
 
