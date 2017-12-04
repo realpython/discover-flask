@@ -1,4 +1,4 @@
-from flask.ext.testing import TestCase
+from flask_testing import TestCase
 
 from project import app, db
 from project.models import User, BlogPost

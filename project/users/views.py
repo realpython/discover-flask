@@ -4,7 +4,7 @@
 
 from flask import flash, redirect, render_template, request, \
     url_for, Blueprint   # pragma: no cover
-from flask.ext.login import login_user, \
+from flask_login import login_user, \
     login_required, logout_user   # pragma: no cover
 
 from .forms import LoginForm, RegisterForm   # pragma: no cover
